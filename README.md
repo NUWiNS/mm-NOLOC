@@ -6,23 +6,25 @@ It includes data from two cities, **Boston** and **Charlotte**, each containing 
 ---
 
 ## Dataset Structure
+```
 modeling_dataset/
 ├── boston/
-│ ├── g1.csv
-│ ├── g2.csv
-│ ├── g3.csv
-│ ├── g4.csv
-│ ├── g5.csv
-│ ├── g6.csv
-│ └── g7.csv
+│   ├── g1.csv
+│   ├── g2.csv
+│   ├── g3.csv
+│   ├── g4.csv
+│   ├── g5.csv
+│   ├── g6.csv
+│   └── g7.csv
 └── charlotte/
-├── g1.csv
-├── g2.csv
-├── g3.csv
-├── g4.csv
-├── g5.csv
-├── g6.csv
-└── g7.csv
+    ├── g1.csv
+    ├── g2.csv
+    ├── g3.csv
+    ├── g4.csv
+    ├── g5.csv
+    ├── g6.csv
+    └── g7.csv
+```
 
 
 ## Notes
